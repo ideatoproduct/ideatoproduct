@@ -1,13 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-I have been building production software since 2016. University of Belgrade trained, with nearly a decade of continuous senior engineering work across four companies spanning e-commerce, staffing, media, and AI. That work has been recognized beyond the codebase. I have traveled to the United States and other international forums as part of a nation-backed team representing Serbia on AI topics, which is not something that happens by accident or by resume alone.
+### I have been building production software since ***2016***. ***University of Belgrade trained***, with nearly a decade of continuous senior engineering work across four companies spanning e-commerce, staffing, media, and AI. That work has been recognized beyond the codebase. I have traveled to the United States and other international forums as part of a nation-backed team representing Serbia on AI topics, which is not something that happens by accident or by resume alone.
 
-Today I build AI products end to end. Not demos. Not API wrappers. Systems where the AI is doing real work inside the product and the output is something a real user or business depends on.
+### Today I build AI products end to end. Not demos. Not API wrappers. Systems where the AI is doing real work inside the product and the output is something a real user or business depends on.
 
-Two recent examples. MintUGC is an AI video generation SaaS platform I designed and shipped solo. Users create custom avatars, generate scripts with GPT, and edit their final video inside a browser-based editor. The whole flow runs on Next.js, Supabase, PostgreSQL, and TypeScript. I also built an automated computer vision pipeline for a luxury watch retailer that processed over 1,000 product images using PyTorch and OpenCV, eliminating manual photo editing while preserving the visual precision that luxury authentication demands. Any artifact in the output risked making a genuine watch look counterfeit. That constraint shaped every decision in the pipeline.
+### The clients I work best with are AI founders and CTOs who are building a real product and need someone who can own the architecture from the data layer through the model layer to the user-facing output. If you need a RAG pipeline that retrieves the right context instead of guessing around it, an agentic workflow that replaces a manual process, or a full-stack AI product built from scratch, that is the work I do.
 
-The clients I work best with are AI founders and CTOs who are building a real product and need someone who can own the architecture from the data layer through the model layer to the user-facing output. If you need a RAG pipeline that retrieves the right context instead of guessing around it, an agentic workflow that replaces a manual process, or a full-stack AI product built from scratch, that is the work I do.
-
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
